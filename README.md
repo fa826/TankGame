@@ -33,7 +33,7 @@ The jar folder will store the built jar of your term project.
     2. Select Build Project.
     3. Wait for IntelliJ to compile the code, it will show BUILD SUCCESSFUL.
 
-NOTE: Make sure all images/sound resources are in the "resources" folder and are loaded correctly.
+    NOTE: Make sure all images/sound resources are in the "resources" folder and are loaded correctly.
  
 ## Steps to run your Project:
     1. Locate Launcher.java (/src/tankgame/game/Launcher.java).
